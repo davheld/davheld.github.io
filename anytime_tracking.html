@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<link rel="stylesheet" type="text/css" href="./DavidHeld_files/project.css">
+        
+        
+        <title>Combining 3D Shape, Color, and Motion for Robust Velocity Estimation</title>
+</head>
+
+<body>
+
+<!--body style='margin-top:0;margin-left:0;margin-right:0;'-->
+    <div id="outer">
+        
+    <div class="bottom">
+        
+        <!--div style="float:left; width:62%"></div-->
+        
+        <div class="left">
+            <img src="./DavidHeld_files/bg-grey.png" id="gradient">
+        </div>
+        
+        <div class="right">
+
+    <h1><center>Combining 3D Shape, Color, and Motion for Robust Velocity Estimation</center></h1>
+    <center>
+        <font size="5"><!-- face="Arial"><i>-->
+        <a class="pubauthor" href="http://stanford.edu/~davheld">David Held</a>,
+        <a class="pubauthor">Jesse Levinson</a>,
+        <a class="pubauthor" href="http://robots.stanford.edu/">Sebastian Thrun,</a>
+        <a class="pubauthor" href="http://cvgl.stanford.edu/silvio/">Silvio Savarese</a>
+        </i>
+        </font>
+    </center>
+    
+    <h2>Abstract</h2>
+    Although object tracking has been studied for decades, real-time tracking algorithms often suffer from low accuracy and poor robustness when confronted with difficult, real-world data. We present a tracker that combines 3D shape, color (when available), and motion cues to accurately estimate the velocity of moving objects in real-time. Our tracker allocates computational effort based on the shape of the posterior distribution. Starting with a coarse approximation to the posterior, the tracker successively refines this distribution, increasing in tracking accuracy over time. The tracker can thus be run for any amount of time, after which the current approximation to the posterior is returned. Even at a minimum runtime of 0.37 milliseconds, our method outperforms all of the baseline methods of similar speed by at least 25%. If our tracker is allowed to run for longer, the accuracy continues to improve, and it continues to outperform all baseline methods. Our tracker is thus anytime, allowing the speed or accuracy to be optimized based on the needs of the application.
+    
+    <h2>Publications</h2>
+     <b>Robust Real-Time Tracking Combining 3D Shape, Color, and Motion</b> <br>
+        David Held, Jesse Levinson, Sebastian Thrun, Silvio Savarese.<br>
+			  In press, IJRR 2015.<br>
+        <a href="DavidHeld_files/ijrr_tracking.pdf">[Full paper]</a>
+
+    <p><b>Combining 3D Shape, Color, and Motion for Robust Anytime Tracking.</b> <br>
+        David Held, Jesse Levinson, Sebastian Thrun, Silvio Savarese.<br>
+        In <i>RSS</i>, 2014.<br>
+        <a href="http://www.roboticsproceedings.org/rss10/p14.html">[Full paper]</a>
+        <!--a href="DavidHeld_files/RSS2014_supplement.pdf">[Supplementary Material]</a-->
+        <!--a href="DavidHeld_files/ijrr_tracking.pdf">[Supplementary Material]</a-->
+        <a href="https://www.youtube.com/watch?v=_xEmOXTQjlU#t=4m43s">[Presentation]</a>
+        <a href="DavidHeld_files/RSS2014_Poster.pptx">[Poster - pptx]</a>
+        <a href="DavidHeld_files/RSS2014_Poster.pdf">[Poster - pdf]</a>
+        
+        <p><b>Precision Tracking with Sparse 3D and Dense Color 2D Data.</b> <font color="red">Best Vision Paper Finalist.</font><br>
+        David Held, Jesse Levinson, Sebastian Thrun<br>
+        In <i>ICRA</i>, 2013. <br>
+        <a href="http://stanford.edu/~davheld/DavidHeld_files/ICRA13_0624_FI.pdf">[Full paper]</a>
+        
+
+        
+        <!--
+    
+    Learning Trajectory Preferences for Manipulators via Iterative Improvement. In NIPS, 2013.
+    Ashesh Jain, Brian Wojcik, Thorsten Joachims and Ashutosh Saxena. [PDF]
+    
+    Beyond geometric path planning: Learning context-driven trajectory preferences via sub-optimal feedback. In ISRR, 2013.
+    Ashesh Jain, Shikhar Sharma, and Ashutosh Saxena. [PDF]
+    An earlier version of this work was presented at the ICML workshop on Robot Learning, June 2013. [PDF]
+    
+    Power point slides [PPT]-->
+    
+    
+    <h2>Code</h2>
+    
+    The C++ code for the tracker is available on github <a href="https://github.com/davheld/precision-tracking">here</a> 
+<p>
+To run a quick test on the code, you will also need to download this file with test data: 
+<a href="DavidHeld_files/test.tm">Test data</a>
+<p>
+If you have any further questions about the tracker, please email me at davheld -at- cs -dot- stanford -dot- edu.
+<h2> Videos </h2>
+<p>
+Using the velocity estimates produced by our tracker, we can accumulate points for a bicyclist as it bikes by:
+<center>
+    <iframe width="640" height="360" src="http://www.youtube.com/embed/85QwvL6kMjo?rel=0" frameborder="0" allowfullscreen></iframe>
+<!--<iframe width="640" height="360" src="http://www.youtube.com/embed/wrap-3jZ7fA?rel=0" frameborder="0" allowfullscreen></iframe>-->
+</center>
+<p>
+This is the bicyclist that we are tracking in the above video.  Notice that the bicyclist also undergoes rotation as it bikes around the curve.
+<center>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/q7aMUp2pn6k?rel=0" frameborder="0" allowfullscreen></iframe>
+</center>
+<p>
+Here are some other models that are built using the frame-to-frame velocity estimates produced by our tracker.  The top row shows the single frame with the most points observed by our sensor.  The bottom row shows the accumulated model produced by our tracker.
+<center><img width=1000 src="./DavidHeld_files/models.png" id="models"></center>
+
+<p>
+       We can optionally include color in our tracker as well.  To do this, we first learn a probability distribution of how much the color of a given point will change over time (from different viewing angles, as shadows change, reflectance, etc).
+       Using the 3D information obtained from our laser and the information obtained from our INS system about our ego motion (i.e. the motion from our camera), we can track a single point as we move past it.  We can then observe how the color of this point changes over time, and we can learn the probability of observing any color change over a single frame.  This video shows one example point that we are tracking to learn how its color changes as we move past it.
+       <p>
+       <center>
+       <iframe width="480" height="360" src="http://www.youtube.com/embed/SObKRTF4C9M?rel=0" frameborder="0" allowfullscreen></iframe>
+       </center>
+       <p><p>
+       
+<h2>Bibtex</h2>
+<pre>
+@INPROCEEDINGS{Held-RSS-14,
+AUTHOR    = {David Held AND Jesse Levinson AND Sebastian Thrun AND Silvio Savarese},
+TITLE     = {Combining 3D Shape, Color, and Motion for Robust Anytime Tracking},
+BOOKTITLE = {Proceedings of Robotics: Science and Systems},
+YEAR      = {2014},
+ADDRESS   = {Berkeley, USA},
+MONTH     = {July}
+}
+</pre>
+
+<h2>Questions?</h2>
+If you have any further questions about the tracker, please email me at davheld -at- cs -dot- stanford -dot- edu.
+<br /><br /><br /><br /><br /><br /><br /><br />
+    </div></div></div>
+</body></html>
