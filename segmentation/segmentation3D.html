@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link rel="stylesheet" type="text/css" href="../DavidHeld_files/project.css">
+
+
+<title>Probabilistic Framework for Real-time 3D Segmentation using Spatial, Temporal, and Semantic Cues</title>
+</head>
+
+<body>
+
+<!--body style='margin-top:0;margin-left:0;margin-right:0;'-->
+<div id="outer">
+
+<div class="bottom">
+
+<!--div style="float:left; width:62%"></div-->
+
+<div class="left">
+<img src="./DavidHeld_files/bg-grey.png" id="gradient">
+</div>
+
+<div class="right">
+
+<h1><center>A Probabilistic Framework for Real-time 3D Segmentation using Spatial, Temporal, and Semantic Cues</center></h1>
+<center>
+<font size="5"><!-- face="Arial"><i>-->
+<a class="pubauthor" href="http://stanford.edu/~davheld">David Held</a>,
+<a class="pubauthor">Devin Guillory, Brice Rebsamen,</a>
+<a class="pubauthor" href="http://robots.stanford.edu/">Sebastian Thrun,</a>
+<a class="pubauthor" href="http://cvgl.stanford.edu/silvio/">Silvio Savarese</a>
+</i>
+</font>
+</center>
+
+<h2>Abstract</h2>
+In order to track dynamic objects in a robot's environment, one must first segment the scene into a collection of separate objects. Most real-time robotic vision systems today rely on simple spatial relations to segment the scene into separate objects.  However, such methods fail under a variety of real-world situations such as occlusions or crowds of closely-packed objects.  We propose a probabilistic 3D segmentation method that combines spatial, temporal, and semantic information to make better-informed decisions about how to segment a scene. We begin with a coarse initial segmentation.  We then compute the probability that a given segment should be split into multiple segments or that multiple segments should be merged into a single segment, using spatial, semantic, and temporal cues. Our probabilistic segmentation framework enables us to significantly reduce both undersegmentations and oversegmentations on the KITTI dataset while still running in real-time. By combining spatial, temporal, and semantic information, we are able to create a more robust 3D segmentation system that leads to better overall perception in crowded dynamic environments.
+
+
+<h2>Publications</h2>
+<b>A Probabilistic Framework for Real-time 3D Segmentation using Spatial, Temporal, and Semantic Cues</b><br>
+<a class="pubauthor">David Held, Devin Guillory, Brice Rebsamen, Sebastian Thrun, Silvio Savarese</a>
+<div class="pubjournal">Robotics: Science and Systems (RSS), 2016 (In press)</div>
+<a href="supplement.pdf">[Supplement]</a>
+
+<h2>Code</h2>
+
+<p>Unfortunately we are unable to make the code for this work available at this time.
+
+<p>If you have any further questions about the segmentation method, please email me at davheld -at- cs -dot- stanford -dot- edu.
+<h2> Videos </h2>
+<p>
+Here you can see a visualization of our segmentation results:
+<center>
+    <iframe width="640" height="360" src="http://www.youtube.com/embed/pmG3LMCD4HU?rel=0" frameborder="0" allowfullscreen></iframe>
+</center>
+
+
+<h2>Bibtex</h2>
+<pre>
+@INPROCEEDINGS{Held-RSS-16,
+AUTHOR    = {David Held AND Devin Guillory AND Brice Rebsamen AND Sebastian Thrun AND Silvio Savarese},
+TITLE     = {A Probabilistic Framework for Real-time 3D Segmentation using Spatial, Temporal, and Semantic Cues},
+BOOKTITLE = {Proceedings of Robotics: Science and Systems},
+YEAR      = {2016},
+}
+</pre>
+
+<h2>Questions?</h2>
+If you have any further questions about the tracker, please email me at davheld -at- cs -dot- stanford -dot- edu.
+<br /><br /><br /><br /><br /><br /><br /><br />
+</div></div></div>
+</body></html>
