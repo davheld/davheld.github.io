@@ -1,6 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-	<link rel="stylesheet" type="text/css" href="./DavidHeld_files/david.css">
+	<link rel="stylesheet" type="text/css" href="david.css">
 
 	<script type="text/javascript">
 
@@ -41,7 +41,6 @@
 		<img src="./DavidHeld_files/DavidHeld3.png" id="name">
 	</div>
 	<div class="right">
-		<!--img src="./DavidHeld_files/email2.png" id="email"-->
 	</div>
 </div>
 
@@ -50,11 +49,12 @@
 		<img src="./DavidHeld_files/bg-grey.png" id="gradient">
 	</div>
 	<div class="right">
-		<div style="float:left; width:62%">
+		<div style="float:left; width:95%">
 
 <!--BEGIN CONTENT-->
 
 <!-- About -->
+<table><tr><td>
 <div class="heading"> About Me </div>
 <p>
 I am currently working as a post-doc with <a href="http://www.cs.berkeley.edu/~pabbeel/">Pieter Abbeel</a>
@@ -91,19 +91,40 @@ M.S. Thesis: "Autonomous Driving: Car Detection, Tracking, and Street Sign Detec
  and <a href="http://robots.stanford.edu/">Sebastian Thrun</a>.</li>
 </ul>
 
+</td>
+<td valign="top" align="center" style='padding:0px 0px 0px 100px'>
+    <!--div class="figure"-->
+        <img src="./DavidHeld_files/DavidHeld.jpg" width="150"><br><br>
+        <img src="./DavidHeld_files/email.png" width="210"><br>
+    <!--/div-->
+</td></tr></table>
+
+
 <!-- Publications -->
 <div class="heading"> Publications </div>
+
+<table cellpadding="10" width="85%">
+    <tr><td><li class="year"> 2016</li></td></tr>
+
 <!--ul-->
 	<!-- ------------------------------------------------------------------------
-	     2014
+	     2016
 	     --------------------------------------------------------------------- -->
-	<!--
-		2014 Tracking (RSS)
-	-->
 	<!--li class="pubitem"--> 
 	   <!--table border="0" cellpadding="0" cellspacing="0" cellpadding="100" width="800" bgcolor="#FFFFFF"-->
-<table cellpadding="10">
-    <!--tr><td><li class="year"> 2016</li></td></tr-->
+    <!--RSS 2016-->
+    <tr>
+        <td class="pubimg">
+            <img src="DavidHeld_files/pull_fig2.png" width="250">
+        </td>
+        <td>A Probabilistic Framework for Real-time 3D Segmentation using Spatial, Temporal, and Semantic Cues<br>
+            <div class="pubauthor">David Held, Devin Guillory, Brice Rebsamen, Sebastian Thrun, Silvio Savarese</div>
+            <div class="pubjournal">Robotics: Science and Systems (RSS), 2016 (In press)</div>
+            <!--a href="http://arxiv.org/abs/1507.08286">Arxiv version</a-->
+        </td>
+    </tr>
+    
+    <!--ICRA 2016-->
 		<tr>
         <td class="pubimg">
             <img src="DavidHeld_files/pull6_flatb.png" width="250">
@@ -111,13 +132,12 @@ M.S. Thesis: "Autonomous Driving: Car Detection, Tracking, and Street Sign Detec
 
 
 <td><a href="http://arxiv.org/abs/1507.08286">Robust Single-View Instance Recognition</a><br>
-    David Held, Sebastian Thrun, Silvio Savarese<br>
+    <div class="pubauthor">David Held, Sebastian Thrun, Silvio Savarese</div>
     <div class="pubjournal">International Conference on Robotics and Automation (ICRA), 2016 (In press)</div>
     <!--a href="http://arxiv.org/abs/1507.08286">Arxiv version</a-->
  	  </td></tr>
 
 
-    <!--tr><td><li class="year"> 2015 </li></td></tr-->
 		<tr>
         <td class="pubimg">
             <img src="DavidHeld_files/tracker_comparison3.png" height="120">
@@ -126,12 +146,15 @@ M.S. Thesis: "Autonomous Driving: Car Detection, Tracking, and Street Sign Detec
 
 <td>
      <a href="DavidHeld_files/ijrr_tracking.pdf">Robust Real-Time Tracking Combining 3D Shape, Color, and Motion </a><br>
-          David Held, Jesse Levinson, Sebastian Thrun, Silvio Savarese<br>
- <div class="pubjournal">International Journal of Robotics Research (IJRR), 2016</div>					
+          <div class="pubauthor">David Held, Jesse Levinson, Sebastian Thrun, Silvio Savarese</div>
+          <div class="pubjournal">International Journal of Robotics Research (IJRR), 2016</div>
                 <a href="anytime_tracking.html">[Project Page - Supplementary material, C++ code, poster, presentation]</a><br>
           <!--a href="DavidHeld_files/ijrr_tracking.pdf">[Full paper]</a-->
  	  </td></tr>
-    <!--tr><td><li class="year"> 2014 </li></td></tr-->
+        <!--tr><td><li class="year"> 2015 </li></td></tr-->
+
+
+    <tr><td><li class="year"> 2014 </li></td></tr>
     
     <tr>
         <td class="pubimg">
@@ -181,7 +204,7 @@ MONTH     = {July} } </pre>
             </div>
         </td></tr>
     
-	<!--tr><td><li class="year"> 2013 </li></td></tr-->
+	<tr><td><li class="year"> 2013 </li></td></tr>
 
   <tr>
     <td class="pubimg">
@@ -254,7 +277,7 @@ year = {2013} }</pre>
 	<!-- ------------------------------------------------------------------------
 	     2012 
 	     --------------------------------------------------------------------- -->
-	<!--tr><td><li class="year"> 2012 </li></td></tr-->
+	<tr><td><li class="year"> 2012 </li></td></tr>
 	<!--
 		2012 Car Detection (ICRA)
 	-->
@@ -417,10 +440,10 @@ ISSN={1931-0587}}</pre>
 <td class="pubitem">
 	<div class="pubitem"> 
 		<a class="pubtitle" href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1384698">MVWT-II: The Second Generation Caltech Multi-Vehicle Wireless Testbed</a>
-		<div>
+		<div class="pubauthor">
 Zhipu Jinh,  Stephen Waydo,  Elisabeth B. Wildanger,  Michael Lammers, 
 Hans Scholze, Peter Foley, 
-			<a class="pubauthor" href="http://stanford.edu/~davheld">David Held</a>, 
+			<a class="pubauthor" href="http://stanford.edu/~davheld">David Held</a>,
 			Richard M. Murray 
 		</div>
 		<div class="pubjournal">
@@ -599,21 +622,12 @@ doi = {10.1115/1.2988384}
 
 
 
-<div style="clear: both;">
-
-</div>
-
+<div style="clear: both;"></div>
 		</div>
-		<div class="figure">
-			<!--RIGHT TAB-->
+		<!--div class="figure">
 			<img src="./DavidHeld_files/DavidHeld.jpg" width="150"><br><br>
-			<!--David Held<br>-->
-			<!--Stanford University <br>
-			Gates Room 130 <br>-->
-			<!--davheld@stanford.edu <br>-->
 			<img src="./DavidHeld_files/email.png" width="210"><br>
-			<!--p><b>Figure 1:</b> Me</p-->
-		</div>
+		</div-->
 	</div>
 </div>
 

@@ -77,7 +77,7 @@ div.bottom div.right {
 }
 
 div.figure {
-	float:right; 
+	float:right;
 	width:38%; 
 	text-align:center;
 	padding-top: 3em;
@@ -131,8 +131,11 @@ div.pubitem{
 }
 a.pubtitle {
 }
+div.pubauthor {
+    color:#5b2503;
+}
 a.pubauthor {
-	color:#5b2503;
+    color:#5b2503;
 }
 div.pubInfo {
 	margin-left: 15px;
@@ -162,5 +165,3 @@ td.pubimg {
 	text-align: center;
 
 }
-
-
