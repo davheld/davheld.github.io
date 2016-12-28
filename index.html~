@@ -58,29 +58,15 @@
 <div class="heading"> About Me </div>
 <p>
 I am currently working as a post-doc with <a href="http://www.cs.berkeley.edu/~pabbeel/">Pieter Abbeel</a>
-as part of the <a href="http://bair.berkeley.edu">Berkeley Artificial Intelligence Research Laboratory</a>.
+as part of the <a href="http://bair.berkeley.edu">Berkeley Artificial Intelligence Research (BAIR) laboratory</a>.
 </p>
 
 <p>
 <!--I am generally interested in robotics, vision, and machine learning.-->
 <!--Berkeley Artificial Intelligence Research laboratory-->
 
-<!--I am generally interested in developing models for robot perception and control, using techniques from robotics, computer vision, and machine learning.
-My latest research has been on modeling how the appearance of an object can change over time.  I have applied this idea to the problems of segmentation, tracking, velocity estimation, and object recognition for <a href="http://driving.stanford.edu/index.html">autonomous driving</a>, and I have shown how, by modeling these appearance changes, we can significantly improve a robot's perception capabilities.-->
-<p>My research lies at the intersection of robotics, machine learning, and computer vision.
-</p>
-<p>I am interested in developing methods for robotic perception and control that can allow robots to operate in in the messy, cluttered environments of our daily lives.  My approach is to design new deep learning / machine learning algorithms to understand environmental changes: how dynamic objects in the environment can move and how to affect the environment to achieve a desired task.  
-</p>
-<p>I have applied this idea of learning to understand environmental changes to 
-improve a robot's capabilities in two domains: <a href="http://driving.stanford.edu/index.html">autonomous driving</a> and object 
-manipulation.  Within <a href="http://driving.stanford.edu/index.html">autonomous driving</a>, I have shown how, by modeling object
-appearance changes, we can improve a robot's perception capabilities for every 
-part of the robot perception pipeline: segmentation, tracking, 
-velocity estimation, and object recognition.  I am also currently working on 
-learning to control indoor robots for object manipulation tasks.  By teaching 
-robots to understand and affect environmental changes, I hope to open the door 
-to many new robotics applications, such as robots for our homes, assisted living 
-facilities, schools, hospitals, or disaster relief areas.
+I am generally interested in developing models for robot perception and control, using techniques from robotics, computer vision, and machine learning.
+My latest research has been on modeling how the appearance of an object can change over time.  I have applied this idea to the problems of segmentation, tracking, velocity estimation, and object recognition for <a href="http://driving.stanford.edu/index.html">autonomous driving</a>, and I have shown how, by modeling these appearance changes, we can significantly improve a robot's perception capabilities.
 </p>
 
 <p>
