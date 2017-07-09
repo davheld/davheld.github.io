@@ -75,8 +75,14 @@ YEAR      = {2016},
 }
 </pre>
 
+<h2>FAQ</h2>
+Q: When computing the position probability (equation 10 in the <a href="http://davheld.github.io/segmentation3D/RSS_2016_Final_Version_28.pdf">original paper</a> or equation 21 in the <a href="http://davheld.github.io/segmentation3D/segmentation_extended.pdf">extended version</a>), what do you use for the mean and covariance of the velocity if the data association indicates that we are matching to two previous segments?
+<br><br>
+A: In this case, we currently have a heuristic of just using the velocity distribution from the larger of the two previous segments.  Of course, other approaches can be used here.
+
 <h2>Questions?</h2>
 If you have any further questions about our method, please email me at davheld -at- cs -dot- stanford -dot- edu.
+
 <br /><br /><br /><br /><br /><br /><br /><br />
 </div></div></div>
 </body></html>
