@@ -160,7 +160,7 @@ td.pubimg {
      * bottom, text-bottom, length, or a value in percentage
      */
 	vertical-align: top;
-    	border-width: 100px;
-	text-align: center;
+    border-width: 100px;
+	text-align: left;
 
 }
