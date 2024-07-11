@@ -1,0 +1,445 @@
+
+My PhD Genealogy...
+
+
+		 	     David Held 2016
+		/	 	    	\		 
+    Silvio Saverse 2005            Sebastian Thrun 1995
+                                   /                  \
+                     Armin B Cremers 1972        Tom Mitchell 1979
+                       /          \                      |
+             Otto Meyer 1968       |                Bruce Buchanan 1966 
+             /            \        |                     |
+Karl Nickel 1949       Ulrich Kulisch 1961          Gerald Massey 1964
+          |                  |                     /                 \
+Hellmuth Kneser 1921   Josef Heinhold 1939  Karl Gustav Hempel 1934  Alonzo Church 1927  
+          |                  |                   |                         |
+David Hilbert 1885     Oskar Perron 1902    Wolfgang Köhler 1909     Oswald Veblen 1903
+            \             /                      |                         |
+       C. L. Ferdinand Lindemann 1873       Carl Stumpf 1869         E. H. Moore 1885
+                     |                           |                         |
+             C. Felix Klein 1868            Rudolf Lotze 1838        H. A. Newton 1850
+             /                 \                 |                         |
+            /                   \                                          |
+           /                     \                                         |
+Julius Plücker 1823               Rudolf Lipschitz 1853              Michel Chasles 1814
+          |                           /               \                    |
+Christian Gerling 1812      Martin Ohm 1811       Gustav Dirichlet 1827    |
+          |                     |                      /              \    |
+Carl F Gauß 1799   Karl von Langsdorf 1781   Jean-Baptiste Fourier  Simeon Poisson  
+          |                     |                      \              /
+Johann Pfaff  1786                                      Joseph Lagrange    
+          |                                                    |
+Abraham Kaestner 1739                                 Leonhard Euler 1726
+          |                                                    |
+Christian Hausen 1713                                 Johann Bernoulli 1694
+          |                                                    |
+Johann Wichmannshausen 1685                           Jacob Bernoulli    
+          |                                                   |
+Johann Planer 1686                                    Gottfried Leibniz 1666
+          |                               
+Johann Pasch 1683      
+          |               
+Michael Walther 1656
+          |
+Aegidius Strauch 1633
+          |
+Nicolaus Zapf 1622
+          |
+Erasmus Schmidt 1592
+          |
+Sethus Calvisius 1582
+          |
+Moritz Steinmetz 1550
+          |
+Georg von Leuchen Rheticus 1535
+          |
+Nicolaus Copernicus 1499
+                                                               
+
+
+
+Here is another view of the PhD genealogy starting from Sebastian Thrun:
+
+Sebastian Thrun 1995
+| Armin Bernd Cremers 1972
+| | Otto Mayer 1968
+| | | Ulrich W. Kulisch 1961
+| | | | Josef Heinhold 1938
+| | | | | Oskar Perron 1902
+| | | | | | C. L. Ferdinand (Carl Louis) Lindemann 1873
+| | | | | | | C. Felix (Christian) Klein 1868
+| | | | | | | | Julius Plücker 1823
+| | | | | | | | | Christian Ludwig Gerling 1812
+| | | | | | | | | | Carl Friedrich Gauß 1799
+| | | | | | | | | | | Johann Friedrich Pfaff 1786
+| | | | | | | | | | | | Abraham Gotthelf Kästner 1739
+| | | | | | | | | | | | | Christian August Hausen 1713
+| | | | | | | | | | | | | | Johann Christoph Wichmannshausen 1685
+| | | | | | | | | | | | | | | Otto Mencke 1665
+| | | | | | | | | | | | | | | | Jakob Thomasius 1643
+| | | | | | | | | | | | | | | | | | Friedrich Leibniz 1622
+| | | | | | | | | | | | | | Johann Andreas Planer 1686/1709
+| | | | | | | | | | | | | | | Johann Pasch 1683
+| | | | | | | | | | | | | | | | Michael d. J. Walther 1656 / 1660 / 1687
+| | | | | | | | | | | | | | | | | Aegidius Strauch 1633
+| | | | | | | | | | | | | | | | | | Nicolaus Zapf 1622 / 1625 / 1629
+| | | | | | | | | | | | | | | | | | | Erasmus Schmidt 1592
+| | | | | | | | | | | | | | | | | | | | Sethus Calvisius 1582
+| | | | | | | | | | | | | | | | | | | | | Nikolaus Selnecker 1570
+| | | | | | | | | | | | | | | | | | | | | Moritz Valentin Steinmetz 1550
+| | | | | | | | | | | | | | | | | | | | | | | Georg Joachim von Leuchen Rheticus 1535
+| | | | | | | | | | | | | | | | | | | | | | | | Johannes Volmar 1515
+| | | | | | | | | | | | | | | | | | | | | | | | | Bonifazius Erasmi 
+| | | | | | | | | | | | | | | | | | | | | | | | Nicolaus (Mikołaj Kopernik) Copernicus 1499
+| | | | | | | | | | | | | | | | | | | | | | | | | Leonhard (Leonard Vitreatoris z Dobczyc) von Dobschütz 1489
+| | | | | | | | | | | | | | | | | | | | | | | | | Domenico Maria Novara da Ferrara 1483
+| | | | | | | | | | | | | | | | | | | | | | | | | | Johannes Müller Regiomontanus 1457
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Georg von Peuerbach 1440
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Johannes von Gmunden 1406
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | Heinrich von Langenstein 1363
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Nicole Oresme
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Basilios Bessarion 1436
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Georgios Plethon Gemistos (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | | | Luca Pacioli 1380, 1393
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Demetrios Kydones 
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Nilos Kabasilas 1363
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | Gregory Palamas
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Theodore Metochites 1315
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Manuel Bryennios
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Gregory Chioniadis 1296
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Shams al‐Dīn al‐Bukhārī
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Nasir al-Dīn al-Ṭūsī
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Kamāl al-Dīn Ibn Yūnus
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Sharaf al-Dīn al-Ṭūsī
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Elissaeus Judaeus
+| | | | | | | | | | | | | | | | | | | | | | | Johann Hoffmann
+| | | | | | | | | | | | | | | | | | | | Petrus Otto
+| | | | | | | | | | | | | | | | | | | Abraham Heinecke
+| | | | | | | | | | | | | | | | | | | Jacobus Martini 1596
+| | | | | | | | | | | | | | | | | | | | Cornelius Martini 1591/92
+| | | | | | | | | | | | | | | | | | | | | Albert Clampius 
+| | | | | | | | | | | | | | | | | | | | | | Reinhard Bachoff von Echt 1598
+| | | | | | | | | | | | | | | | | | | | | Duncan Liddel 1582
+| | | | | | | | | | | | | | | | | | | | | | John Craig 1580
+| | | | | | | | | | | | | | | | | | | | | | | Theodor Zwinger 1535/1559
+| | | | | | | | | | | | | | | | | | | | | | | | Petrus (Pierre de La Ramée) Ramus 1536
+| | | | | | | | | | | | | | | | | | | | | | | | | Johannes (Johann Sturm) Sturmius 1527
+| | | | | | | | | | | | | | | | | | | | | | | | | | Nicolas (Nicolaes Cleynaerts) Clénard 1515, 1521
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Jacobus (Jacques Masson) Latomus 1502
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Jan Standonck
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Jan (Johannes Campensis) van Campen
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Johann (Johannes Kapnion) Reuchlin 1477, 1481
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | Johannes Argyropoulos
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Basilios Bessarion (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | Jacob ben Jehiel Loans
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Matthaeus Adrianus
+| | | | | | | | | | | | | | | | | | | | | | | | | | Johannes Winter von Andernach 1527, 1532
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Rutger Rescius 1513
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Girolamo (Hieronymus Aleander) Aleandro 1499, 1508
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | Moses Perez
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | Scipione Fortiguerra 1493
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Angelo Poliziano 1477
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Marsilio Ficino 1462
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Johannes Argyropoulos 1444
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Basilios Bessarion (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Cristoforo Landino
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Jacobus (Jacques Dubois) Sylvius 1530
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Jean Tagault
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | François Dubois
+| | | | | | | | | | | | | | | | | | | | | | | | | Jacques Toussain 1521
+| | | | | | | | | | | | | | | | | | | | | | | | | | Guillaume Budé 1486, 1491
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Georgius Hermonymus
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Janus Lascaris 1472
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Basilios Bessarion (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Demetrios Chalcocondyles 1452
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | Theodoros Gazes 1433
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Vittorino da Feltre 1416
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Guarino da Verona 1408
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Manuel Chrysoloras
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Demetrios Kydones (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | Bassiano Landi 1542
+| | | | | | | | | | | | | | | | | | | | | | | | | Giovanni Battista della Monte
+| | | | | | | | | | | | | | | | | | | | | | | | | | Marco Musuro 1486
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Janus Lascaris 1472
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Basilios Bessarion 1436
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | Georgios Plethon Gemistos 1380, 1393
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Demetrios Kydones (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Elissaeus Judaeus
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Demetrios Chalcocondyles (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | | | Pietro Pomponazzi 1487
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Nicoletto Vernia
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Gaetano da Thiene 1504
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | Paolo (Nicoletti) da Venezia
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Pietro Roccabonella
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Gaetano da Thiene (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Sigismondo Polcastro 1412, 1424
+| | | | | | | | | | | | | | | | | | | | | | | | | | Niccolò Leoniceno 1446, 1453
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Ognibene (Omnibonus Leonicenus) Bonisoli da Lonigo
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Vittorino da Feltre (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Pelope
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Pietro Roccabonella
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Gaetano da Thiene (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Sigismondo Polcastro (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | | Vittore Trincavelli
+| | | | | | | | | | | | | | | | | | | | | | | | | | Pietro Pomponazzi (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | Vittore Trincavelli (see above)
+| | | | | | | | | | | | | | | | | | | | | | Paul Wittich 1566
+| | | | | | | | | | | | | | | | | | | | | | | Valentin Thau 1555
+| | | | | | | | | | | | | | | | | | | | | | | | Johannes Hommel 1543
+| | | | | | | | | | | | | | | | | | | | | | | | | Erasmus Reinhold 1535
+| | | | | | | | | | | | | | | | | | | | | | | | | | Jakob Milich 1520, 1524
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Desiderius Erasmus 1497, 1506
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Jan Standonck 1474, 1490
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Alexander Hegius
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | Rudolf Agricola 1478
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Theodoros Gazes (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | Thomas von Kempen à Kempis
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Geert Gerardus Magnus Groote
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Florens Florentius Radwyn Radewyns
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Ulrich Zasius 1501
+| | | | | | | | | | | | | | | | | | | | | | | | | Philipp Melanchthon 1511, 1514
+| | | | | | | | | | | | | | | | | | | | | | | | | | Johannes Stöffler
+| | | | | | | | | | | | | | | | | | | | | | | | | | Johann (Johannes Kapnion) Reuchlin 1477, 1481
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Johannes Argyropoulos
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Basilios Bessarion (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Jacob ben Jehiel Loans
+| | | | | | | | | | | | | | | | | Constantin Ziegra 
+| | | | | | | | | | | | | | | | | Johann Andreas Quenstedt 1643, 1644
+| | | | | | | | | | | | | | | | | | Georg Calixt 1607
+| | | | | | | | | | | | | | | | | | | Johannes Caselius 1569
+| | | | | | | | | | | | | | | | | | | | Philipp Melanchthon 1511, 1514
+| | | | | | | | | | | | | | | | | | | | | Johannes Stöffler
+| | | | | | | | | | | | | | | | | | | | | Johann (Johannes Kapnion) Reuchlin (see above)
+| | | | | | | | | | | | | | | | | | | Cornelius Martini 1591, 1592
+| | | | | | | | | | | | | | | | | | | | Albert Clampius
+| | | | | | | | | | | | | | | | | | | | | Reinhard Bachoff von Echt 1598
+| | | | | | | | | | | | | | | | | | | | Duncan Liddel (see above)
+| | | | | | | | | | | | | | | | | | Christoph Nottnagel 1630
+| | | | | | | | | | | | | | | | | | | Ambrosius Rhodius
+| | | | | | | | | | | | | | | | | | | | Anton Euonymus 1583
+| | | | | | | | | | | | | | | | | | | | | Leonhard Etzler
+| | | | | | | | | | | | | | | | | | | | Melchior Jöstel 1583, 1600
+| | | | | | | | | | | | | | | | | | | | | Valentin (Valentinus Otho) Otto 1570
+| | | | | | | | | | | | | | | | | | | | | | Georg Joachim von Leuchen Rheticus (see above)
+| | | | | | | | | | | | | | | | | | | | | Andreas Schato 1562, 1578
+| | | | | | | | | | | | | | | | | | | | | | Sebastian (Theodoricus) Dietrich 1544
+| | | | | | | | | | | | | | | | | | | | | | | Erasmus Reinhold (see above)
+| | | | | | | | | | | | | | | | | | | | | | | Georg Joachim von Leuchen Rheticus (see above)
+| | | | | | | | | | | | | | | | | | | | | | Salomon Alberti 1564, 1574
+| | | | | | | | | | | | | | | | | | | | | | | Caspar Peucer 1545
+| | | | | | | | | | | | | | | | | | | | | | | | Erasmus Reinhold (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | Georg Joachim von Leuchen Rheticus (see above)
+| | | | | | | | | | | | | | | | | | | | | | | Hieronymus (Girolamo Fabrici d'Acquapendente) Fabricius 1559
+| | | | | | | | | | | | | | | | | | | | | | | | Gabriele Falloppio 1547
+| | | | | | | | | | | | | | | | | | | | | | | | | Antonio Musa Brasavola 1520
+| | | | | | | | | | | | | | | | | | | | | | | | | | Niccolò Leoniceno (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | | Matteo Realdo (Renaldus Columbus) Colombo 1544
+| | | | | | | | | | | | | | | | | | | | | | | | | | Andreas (Andries van Wesel) Vesalius 1537
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Johannes Winter von Andernach (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Giovanni Battista della Monte (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | | | | Gemma (Jemme Reinerszoon) Frisius 1529, 1536
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | Petrus (Pieter de Corte) Curtius 1513, 1530
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | Maarten (Martinus Dorpius) van Dorp 1504, 1515
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Leo Outers 1485
+| | | | | | | | | | | | | | | | | | | | Ernestus Hettenbach 1576, 1591
+| | | | | | | | | | | | | | | | | | | | | Andreas Schato (see above)
+| | | | | | | | | | | | | | | | | | | | | Salomon Alberti (see above)
+| | | | | | | | | | | | | | | | | | | | Johannes Kepler 1591
+| | | | | | | | | | | | | | | | | | | | | Michael Maestlin 1571, 1576
+| | | | | | | | | | | | | | | | | | | | | | Samuel Heyland 1554
+| | | | | | | | | | | | | | | | | | | | | | | Johannes (Johann Sturm) Sturmius (see above)
+| | | | | | | | | | | | | | | | | | | | | | Philipp Apian
+| | | | | | | | | | | | | | | | | | | | | | | Johannes (Johann Sturm) Sturmius (see above)
+| | | | | | | | | | | | | | | | | | | | | | | Michael Beuther 1542
+| | | | | | | | | | | | | | | | | | | | | | | | Philipp Melanchthon (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | Erasmus Reinhold (see above)
+| | | | | | | | | | | | | | | | | | | | | Tycho (Tyge Ottesen) Brahe 1562, 1565
+| | | | | | | | | | | | | | | | | | | | | | Valentin Thau (see above)
+| | | | | | | | | | | | | | | | | | | | | | Caspar Peucer (see above)
+| | | | | | | | | | | | | | | | | | | | Tycho (Tyge Ottesen) Brahe (see above)
+| | | | | | | | | | | | | | | Rudolf Jakob Camerarius| 1684, 1686
+| | | | | | | | | | | | | | | | Georg Balthasar Metzger 1646, 1650
+| | | | | | | | | | | | | | | | | Gottfried Möbius 1640
+| | | | | | | | | | | | | | | | | | Werner Rolfinck 1618, 1625
+| | | | | | | | | | | | | | | | | | | Daniel Sennert 1594, 1599
+| | | | | | | | | | | | | | | | | | | | Jacobus Martini (see above)
+| | | | | | | | | | | | | | | | | | | | Jan Jessenius 1588
+| | | | | | | | | | | | | | | | | | | | | Hieronymus (Girolamo Fabrici d'Acquapendente) Fabricius (see above)
+| | | | | | | | | | | | | | | | | | | Adriaan van den Spieghel 1603
+| | | | | | | | | | | | | | | | | | | | Hieronymus (Girolamo Fabrici d'Acquapendente) Fabricius (see above)
+| | | | | | | | | | | | | | | | | Johann Jakob von Brunn 1615
+| | | | | | | | | | | | | | | | | | Johannes Nicolaus Stupanus 1569
+| | | | | | | | | | | | | | | | | | | Theodor Zwinger (see above)
+| | | | | | | | | | | | | | | | Elias Rudolph Camerarius, Sr. 1663
+| | | | | | | | | | | | | | | | | Georg Balthasar Metzger (see above)
+| | | | | | | | | | | | Johann Elert Bode
+| | | | | | | | | | | | | Johann Georg Büsch 1752, 1753
+| | | | | | | | | | | | | | Johann Andreas Segner 1725, 1726, 1730, 1734
+| | | | | | | | | | | | | | | Georg Erhard Hamberger 1684, 1718, 1721
+| | | | | | | | | | | | | | | | Anton Bernhard Lauterbach 1716
+| | | | | | | | | | | | | | | | Johann Adolph Wedel 1694
+| | | | | | | | | | | | | | | | | Georg Wolffgang Wedel 1667
+| | | | | | | | | | | | | | | | | | Werner Rolfinck (see above)
+| | | | | | | | | | | | | | | | | | Franciscus de le Boë Sylvius 1634, 1637
+| | | | | | | | | | | | | | | | | | | Adolph Vorstius 1619, 1622
+| | | | | | | | | | | | | | | | | | | | Gilbert Jacchaeus 1601, 1603
+| | | | | | | | | | | | | | | | | | | | | Duncan Liddel (see above)
+| | | | | | | | | | | | | | | | | | | | | Jacobus (Jacob Harmensz.) Arminius 1582
+| | | | | | | | | | | | | | | | | | | | | | Rudolph (Snel van Royen) Snellius 1572
+| | | | | | | | | | | | | | | | | | | | | | | Valentine Naibod
+| | | | | | | | | | | | | | | | | | | | | | | | Erasmus Reinhold 1535
+| | | | | | | | | | | | | | | | | | | | | | | | | Jakob Milich 1520, 1524
+| | | | | | | | | | | | | | | | | | | | | | | | | | Desiderius Erasmus (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | | | Ulrich Zasius 1501
+| | | | | | | | | | | | | | | | | | | | | | | Immanuel Tremellius 1549
+| | | | | | | | | | | | | | | | | | | | | | | | Thomas Cranmer 1515, 1626
+| | | | | | | | | | | | | | | | | | | | Adriaan van den Spieghel (see above)
+| | | | | | | | | | | | | | | | | | | Emmanuel Stupanus 1613
+| | | | | | | | | | | | | | | | | | | | Petrus Ryff 1584
+| | | | | | | | | | | | | | | | | | | | | Felix Plater| 1517
+| | | | | | | | | | | | | | | | | | | | | | Guillaume Rondelet 
+| | | | | | | | | | | | | | | | | | | | | | | Johannes Winter von Andernach 1527, 1532
+| | | | | | | | | | | | | | | | | | | | | | | | Rutger Rescius 1513
+| | | | | | | | | | | | | | | | | | | | | | | | | Girolamo (Hieronymus Aleander) Aleandro (see above)
+| | | | | | | | | | | | | | | | | | | | | | | | Jacobus (Jacques Dubois) Sylvius (see above)
+| | | | | | | | | | | | | | | Simon Paul Hilscher 1704
+| | | | | | | | | | | | | | | | Rudolf Wilhelm Krause 1617, 1671
+| | | | | | | | | | | | | | | | | Gerardus Leonardus Blasius 
+| | | | | | | | | | | | | | | | | Franciscus de le Boë Sylvius (see above)
+| | | | | | | | | | | | | | Siegmund Jakob Baumgarten 1726
+| | | | | | | | | | | | | | | Christian Benedict Michaelis 1706
+| | | | | | | | | | | | | | | | Johann Heinrich Michaelis 1694, 1699
+| | | | | | | | | | | | | | | | | August Hermann Francke
+| | | | | | | | | | | | | | | | | Hiob Ludolf 1645, 1646
+| | | | | | | | | | | | | | | | | | Johann Möller
+| | | | | | | | | | | | | | | | | | Jacobus Golius 1612
+| | | | | | | | | | | | | | | | | | | Willebrord (Snel van Royen) Snellius 1607
+| | | | | | | | | | | | | | | | | | | | | Ludolph van Ceulen
+| | | | | | | | | | | | | | | | | | | | Rudolph (Snel van Royen) Snellius (see above)
+| | | | | | | | | | | | | | | | | | | Thomas Erpenius 1698
+| | | | | | | | | | | | | | | | | | | | Joseph Justus Scaliger 1563
+| | | | | | | | | | | | | | | | | | | | | Adrien Turnèbe 1532
+| | | | | | | | | | | | | | | | | | | | | | Jacques Toussain (see above)
+| | | | | | | | | | | | | | | | | | Constantijn l’Empereur van Oppyck 1617
+| | | | | | | | | | | | | | | | | | | Johannes (van den Driesche) Drusius 1572
+| | | | | | | | | | | | | | | | | | | | Raoul (Rodolphus Cavellerius) le Chevalier 
+| | | | | | | | | | | | | | | | | | | | | François Vatable 1511, 1513
+| | | | | | | | | | | | | | | | | | | | | | Girolamo (Hieronymus Aleander) Aleandro (see above)
+| | | | | | | | | | | | | | | | | | | | | | Jacques (Jacobus Faber) Lefèvre d'Étaples 1480
+| | | | | | | | | | | | | | | | | | | | | | | Georgius Hermonymus (see above)
+| | | | | | | | | | | | | | | | | | | | | | | Johannes Argyropoulos (see above)
+| | | | | | | | | | | | | | | | | | | | | Paul (Paul Büchlein) Fagius 1527
+| | | | | | | | | | | | | | | | | | | | | | Wolfgang Fabricius Capito 1506, 1515
+| | | | | | | | | | | | | | | | | | | | | | | Ulrich Zasius (see above)
+| | | | | | | | | | | | | | | | | | | | | | | Desiderius Erasmus (see above)
+| | | | | | | | | | | | | | | | | | | | | | Elijah ben Asher Levita
+| | | | | | | | Rudolf Otto Sigismund Lipschitz 1853
+| | | | | | | | | Gustav Peter Lejeune Dirichlet 1827
+| | | | | | | | | | Siméon Denis Poisson 1800
+| | | | | | | | | | | Joseph Louis Lagrange 1754
+| | | | | | | | | | | | Leonhard Euler 1726
+| | | | | | | | | | | | | Johann Bernoulli 1690, 1694
+| | | | | | | | | | | | | | Jacob Bernoulli 1676
+| | | | | | | | | | | | | | | Peter Werenfels 1649
+| | | | | | | | | | | | | | | | Theodor Zwinger, Jr. 1630
+| | | | | | | | | | | | | | | | | Sebastian Beck 1610
+| | | | | | | | | | | | | | | | | | Johann Jacob Grynaeus 1559 1564
+| | | | | | | | | | | | | | | | | | | Simon Sulzer 1531
+| | | | | | | | | | | | | | | | | | | | Wolfgang Fabricius Capito (see above)
+| | | | | | | | | | | | | | | | | | | | Simon Grynaeus 1511, 1523
+| | | | | | | | | | | | | | | | | | | | | Johann (Johannes Kapnion) Reuchlin (see above)
+| | | | | | | | | | | | | | | | | | | | | Philipp Melanchthon (see above)
+| | | | | | | | | | | | | | | | | | | Jacob Andreae 1553
+| | | | | | | | | | | | | | | | | | | | Jakob Beuerlin 1551
+| | | | | | | | | | | | | | | | | | | | | Balthasar Kaeuffelin 1521
+| | | | | | | | | | | | | | | Nicolas Malebranche 1672
+| | | | | | | | | | | | | | | | Gottfried Wilhelm Leibniz 1966, 1967, 1976
+| | | | | | | | | | | | | | | | | Jakob Thomasius 1643
+| | | | | | | | | | | | | | | | | | Friedrich Leibniz 1622
+| | | | | | | | | | | | | | | | | Erhard Weigel 1650
+| | | | | | | | | | | | | | | | | | Philipp Müller 1604
+| | | | | | | | | | | | | | | | | | | Christoph Meurer 1582
+| | | | | | | | | | | | | | | | | | | | Moritz Valentin Steinmetz (see above)
+| | | | | | | | | | | | | | | | | Bartholomäus Leonhard Schwendendörffer
+| | | | | | | | | | | | | | | | | Christiaan Huygens 1647, 1655
+| | | | | | | | | | | | | | | | | | Frans van Schooten, Jr. 1635
+| | | | | | | | | | | | | | | | | | | Jacobus Golius (see above)
+| | | | | | | | | | | | | | | | | | | Marin Mersenne
+| | | | | | | | | | | | | | | | | | Jan Jansz Stampioen, Jr.
+| | | | | | | | | | | | | | Nikolaus Eglinger 1660, 1661
+| | | | | | | | | | | | | | | Emmanuel Stupanus (see above)
+| | | | | | | | | | | | | | | Johann Caspar Bauhin
+| | | | | | | | | | | | | | | | Emmanuel Stupanus (see above)
+| | | | | | | | | | | | Giovanni Battista (Giambattista) Beccaria
+| | | | | | | | | | | Pierre-Simon Laplace 1769
+| | | | | | | | | | | | Jean Le Rond d'Alembert 1735
+| | | | | | | | | | Jean-Baptiste Joseph Fourier
+| | | | | | | | | | | Joseph Louis Lagrange (see above)
+| | | | | | | | | Martin Ohm 1811
+| | | | | | | | | | Karl Christian von Langsdorf 1781
+| | | | | | | | | | | Abraham Gotthelf Kästner (see above)
+| | | Karl Nickel 1949
+| | | | Hellmuth Kneser 1921
+| | | | | David Hilbert 1885
+| | | | | | C. L. Ferdinand (Carl Louis) Lindemann (see above)
+| | Ulrich W. Kulisch (see above)
+| Tom Michael Mitchell 1979
+| | Bruce Gardner Buchanan 1966
+| | | Gerald J. Massey 1964
+| | | | Carl Gustav Hempel 1934
+| | | | | Wolfgang Köhler 1909
+| | | | | | Carl Stumpf 1869
+| | | | | | | Rudolf Hermann Lotze 1838
+| | | | | | | | Christian Hermann Weiße 1822, 1845
+| | | | | | | | Gustav Theodor Fechner 1823, 1835
+| | | | | | | | Ernst Heinrich Weber 1815
+| | | | | | | | | Johann Christian Rosenmüller 1792, 1794, 1797
+| | | | | | | | | | Johann Gottlob Haase 1764
+| | | | | | | | Alfred Wilhelm Volkmann 1826
+| | | | | Hans Reichenbach 1916
+| | | | | | Paul Hensel 1885
+| | | | | | | Alois Riehl 1868
+| | | | | | Max Noether 1868, 1879
+| | | | | | | Otto Hesse 1840
+| | | | | | | | Carl Gustav Jacob Jacobi 1825
+| | | | | | | | | Enno Heeren Dirksen 1820
+| | | | | | | | | | Johann Tobias Mayer 1773
+| | | | | | | | | | | Abraham Gotthelf Kästner (see above)
+| | | | | | | | | | | Georg Christoph Lichtenberg
+| | | | | | | | | | | | Abraham Gotthelf Kästner (see above)
+| | | | | | | | | | Bernhard Friedrich Thibaut
+| | | | | | | | | | | Abraham Gotthelf Kästner (see above)
+| | | | | | | | | | | Georg Christoph Lichtenberg (see above)
+| | | | | | | Gustav Robert Kirchhoff 1847
+| | | | | | | | Franz Ernst Neumann 1825
+| | | | | | | | | Christian Samuel Weiss 1801
+| | | | | | | | | | Abraham Gottlob Werner 1774
+| | | | | | | | | | | Johann Carl Gehler 1758
+| | | | | | | | | | | | Christian Gottlieb Ludwig 1737
+| | | | | | | | | | | | | Christoph Friedrich Haase 
+| | | | | | | | | | | | | Augustin Friedrich Walther 1712
+| | | | | | | | | | | | | | Johann Gottfried von Berger 1682
+| | | | | | | | | | | | | | | Augustin Heinrich Fasch
+| | | | | | | | | | | | | | | | Werner Rolfinck (see above)
+| | | | | | | | | | René Just Haüy
+| | | | | | | Leo Königsberger 1860
+| | | | | | | | Karl Theodor Wilhelm Weierstraß 1841, 1854
+| | | | | | | | | Christoph Gudermann 1823, 1832
+| | | | | | | | | | Bernhard Friedrich Thibaut (see above)
+| | | | | | | | Ernst Eduard Kummer 1831
+| | | | | | | | | Heinrich Ferdinand Scherk 1823
+| | | | | | | | | | Friedrich Wilhelm Bessel 1810
+| | | | | | | | | | | Carl Friedrich Gauß (see above)
+| | | | | | | | | | Heinrich Wilhelm Brandes
+| | | | | | | | | | | Abraham Gotthelf Kästner (see above)
+| | | | | | | | | | | Georg Christoph Lichtenberg (see above)
+| | | | Alonzo Church 1927
+| | | | | Oswald Veblen 1903
+| | | | | | E. H. (Eliakim Hastings) Moore 1855
+| | | | | | | H. A. (Hubert Anson) Newton 1850
+| | | | | | | | Michel Chasles
+| | | | | | | | | Siméon Denis Poisson (see above)
+
+
+
